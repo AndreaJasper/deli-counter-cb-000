@@ -8,3 +8,8 @@ def line (deli)
   end
     puts current_line
 end
+
+
+def take_a_number
+
+end
